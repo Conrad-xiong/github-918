@@ -17,6 +17,7 @@
 - (void)viewDidLoad {
     [super viewDidLoad];
     NSLog(@"第一次修改");
+    NSLog(@"就是这么6666");
 }
 
 - (void)didReceiveMemoryWarning {
